@@ -1,12 +1,12 @@
 # Site settings
-title: Origin
+title: 空谷闲谈录
 email: ysu.th@dartmouth.edu
 description: > # this means to ignore newlines until "baseurl:"
-    Record my understanding of some very basic math problems while I am studying at Dartmouth College
+    记录我在达特茅斯的所学所想
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.yuchensu.com" # the base hostname & protocol for your site
 twitter_username: psaux0
-github_username: psaux0 
+github_username: psaux0
 
 # Build settings
 markdown: kramdown
