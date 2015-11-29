@@ -1,12 +1,55 @@
-# Site settings
-title: 空谷闲谈录
-email: ysu.th@dartmouth.edu
-description: > # this means to ignore newlines until "baseurl:"
-    记录我在达特茅斯的所学所想
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://www.yuchensu.com" # the base hostname & protocol for your site
-twitter_username: psaux0
-github_username: psaux0
+# Site Info
+title:              "空谷闲谈"
+description:        "记录我在达特茅斯的所学所想"
+#google_verify:      epFgX0s_0RM3CdjwFcsewfXzPov2g8s9ZBOLyaIUH-o # Put your Google Verification here
+#google_analytics:   UA-XXXXXXX-X # Put your Google Analytics code
 
-# Build settings
-markdown: kramdown
+# Author Info
+author_name:        "Yuchen Su"
+author_email:       ysu.th@dartmouth.edu
+author_gravatar:    c73b373dea36d12173210017848e9e27# Gravatar md5 hash
+twitter_username:   psaux0
+
+# Site Settings
+baseurl:            "" # Base URL must end WITHOUT a slash, default: ""
+permalink:          /notes/:title # Post permalink
+timezone:           Asia/Kuala_Lumpur # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+# Site Build
+highlighter:        pygments
+#markdown:           redcarpet
+#redcarpet:
+#    extensions:     ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data", "highlight", "footnotes"]
+markdown:           kramdown
+kramdown:
+    input:          GFM
+sass:
+    style:          :compressed
+
+# Other Params
+include:            [ "robots.txt" ]
+exclude:            [ "LICENSE", "README.md", "CNAME", "vendor", "Gemfile" ]
+gems:
+  - jekyll-sitemap
+
+compress_html:
+    clippings:      all
+    ingore:
+        envs:       [ "test" ]
+
+defaults:
+  -
+    scope:
+      path:         ""
+    values:
+      layout:       "null"
+  -
+    scope:
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      type:         "posts"
+    values:
+      layout:       "post"

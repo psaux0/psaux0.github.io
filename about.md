@@ -1,6 +1,11 @@
 ---
-layout: page
 title: About
-permalink: /about/
 ---
-我一直在尝试写一个中文博客，记录一下我在Dartmouth College的所见所学。我的愿望是能够用一些通俗的语言讲解一些不是那么好懂的理论。
+
+Hello.
+
+The main purpose of this theme is to be as simple as it could be, so you can focus on writing your stuffs. This is your About page. You may describe about yourself here; who you are, what are you currently doing, share some of your projects, your social links and how people can contact you, etc.
+
+**Just write thing that matters..**
+
+Enjoy!
