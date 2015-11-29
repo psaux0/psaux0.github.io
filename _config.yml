@@ -9,4 +9,4 @@ twitter_username: psaux0
 github_username: psaux0 
 
 # Build settings
-markdown: maruku
+markdown: kramdown
