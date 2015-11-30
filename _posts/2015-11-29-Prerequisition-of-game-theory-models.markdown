@@ -15,7 +15,7 @@ use_math: true
 > 定义一场博弈$S=\{S_1,S_2,...,S_n;u_1,u_2,...u_n\}$，对于玩家$i$和其策略集中的策略$s$, $t$，当其他玩家选择同样的策略时，玩家$i$会选择$s$当且仅当
 > $$
 > 	\begin{equation}
-> 		u_i\{s_1,s_2,...s_{i-1},s,s_{i+1}...,s_n\} \geqslant u_i\{s_1,s_2,...,s_{i-1},t,s_{i+1},...,s_n\}
+> 		u_i(s_1,s_2,...s_{i-1},s,s_{i+1}...,s_n) \geqslant u_i(s_1,s_2,...,s_{i-1},t,s_{i+1},...,s_n)
 > 	\end{equation}
 > $$
 
