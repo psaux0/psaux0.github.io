@@ -1,6 +1,4 @@
 ---
-title: "Readinglist"
+title: "2016阅读清单"
 ---
-###2016书单
-
 1.1 － 1.7 《斯通纳》 (Stoner)
