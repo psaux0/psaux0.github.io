@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "诗一首"
+title: "情诗"
 categories: “诗”
 ---
 ![poem]({{site.url}}/assets/love-poem.png)
