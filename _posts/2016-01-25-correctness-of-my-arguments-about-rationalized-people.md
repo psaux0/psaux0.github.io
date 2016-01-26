@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "关于博弈论文章二的休整"
+title: "关于博弈论文章二的修正"
 categories: "博弈论"
 ---
 
