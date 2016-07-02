@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “Some thoughts on Discount Rate”
+title: "Some thoughts on Discount Rate"
 categories: “Investment”
 ---
 What is a discount rate in DCF? Most of us simply replace the discount rate “r” with risk-free return (eg. T-bill) or expected market return in CAPM (eg. 9% = 3% risk-free + 6% market premium). However, people hardly clarify their reasons behind these numbers. As long as an intrinsic value comes out of the formula, discount rate’s meaning is not critical.
