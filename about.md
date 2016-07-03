@@ -7,3 +7,5 @@ title: About
 君子之立志，有民胞物与之量，有内圣外王之业，而后不忝于父母之所生，不愧为天地之完人。
 
 作此博客，一日之中，一念之差，一事之失，一言一默，皆笔之于书。
+
+Find more through [about.me](https://about.me/yuchensu)  
