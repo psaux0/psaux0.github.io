@@ -1,7 +1,7 @@
 ---
 layout: post
-title: “由Alan Shore联想到的”
-categories: “杂谈”
+title: "由Alan Shore联想到的"
+categories: "杂谈"
 ---
 ![alanshore]({{site.url}}/assets/alanshore.png)
 
