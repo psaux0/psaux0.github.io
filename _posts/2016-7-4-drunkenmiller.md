@@ -1,7 +1,7 @@
 ---
 layout: post
-title: “另一种风险管理”
-categories: “投资”
+title: "另一种风险管理"
+categories: "投资"
 ---
 前段时间读了一些书，了解了一些Money Manager的投资策略。毕竟要发展自己的主意之前还是需要先学习别人的思想，尝试去站在巨人的肩上。
 
@@ -12,6 +12,6 @@ Mr. Drunkenmiller有一套自己的风险管理哲学，他不在意Diversified 
 这里是他接受Bloomberg时的一段采访
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7TYzjM-ATyU" frameborder="0" allowfullscreen></iframe>
 
-他在Lost Tree Club的采访[全文]({{site.url}}/assets/drunkenmiller.pdf),个人觉得非常值得一读。
+他在Lost Tree Club的采访[全文]({{site.url}}/assets/Drunkenmiller.pdf),个人觉得非常值得一读。
 
 专注于LSAT的时间里没有太多机会研究市场，不过心底的这一份热情仍在。
