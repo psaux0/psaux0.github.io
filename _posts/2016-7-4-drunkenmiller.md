@@ -5,7 +5,7 @@ categories: "投资"
 ---
 前段时间读了一些书，了解了一些Money Manager的投资策略。毕竟要发展自己的主意之前还是需要先学习别人的思想，尝试去站在巨人的肩上。
 
-在这么多厉害的玩家里，我个人最倾佩Stanley Drunkenmiller－前量子基金经理、《金融炼金术》里索罗斯特别提到的人、英格兰银行战役的真正发起者。
+在这么多厉害的玩家里，我个人最倾佩Stanley Druckenmiller－前量子基金经理、《金融炼金术》里索罗斯特别提到的人、英格兰银行战役的真正发起者。
 
 Mr. Drunkenmiller有一套自己的风险管理哲学，他不在意Diversified Portfolio，而专注于make the bet big。用他自己的话说:”(When there is a good opportunity), put all eggs in one basket and look after the basket carefully.”
 
