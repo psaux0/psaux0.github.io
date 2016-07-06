@@ -9,3 +9,5 @@ title: About
 作此博客，一日之中，一念之差，一事之失，一言一默，皆笔之于书。
 
 Find more through [about.me](https://about.me/yuchensu)  
+
+Tweets channel [link]({{site.url}}/tweets.html)
