@@ -7,7 +7,7 @@ categories: "投资"
 
 在这么多厉害的玩家里，我个人最倾佩Stanley Druckenmiller－前量子基金经理、《金融炼金术》里索罗斯特别提到的人、英格兰银行战役的真正发起者。
 
-Mr. Drunkenmiller有一套自己的风险管理哲学，他不在意Diversified Portfolio，而专注于make the bet big。用他自己的话说:”(When there is a good opportunity), put all eggs in one basket and look after the basket carefully.”
+Mr. Druckenmiller有一套自己的风险管理哲学，他不在意Diversified Portfolio，而专注于make the bet big。用他自己的话说:”(When there is a good opportunity), put all eggs in one basket and look after the basket carefully.”
 
 这里是他接受Bloomberg时的一段采访
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7TYzjM-ATyU" frameborder="0" allowfullscreen></iframe>
