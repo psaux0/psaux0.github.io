@@ -12,4 +12,8 @@ _July 6th 2016_
 _July 7th 2016_
 
 [+] Bread is good - if you clean the table after your "feast".  
-[+] A sleepy groundhog performs worse than an unsleepy one but performs better than a spleey man.
+[+] A sleepy groundhog performs worse than an unsleepy one but performs better than a sleepy man.
+
+_July 8th 2016_
+
+[+] Things evolved from both inner force and outside influence. Bond is a thing.
