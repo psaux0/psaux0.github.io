@@ -8,6 +8,12 @@ title: About
 
 作此博客，一日之中，一念之差，一事之失，一言一默，皆笔之于书。
 
+反标签，反夸夸其谈。
+
 Find more through [about.me](https://about.me/yuchensu)  
 
 Tweets channel [link]({{site.url}}/tweets.html)
+
+My daily [thoughts](https://www.dropbox.com/sh/eypf8zoimux4i2e/AABmPIUDuQ00JFM_RZA8ERmZa?dl=0) on the market. 
+
+Every thing is for my love: 魏琦.
