@@ -17,3 +17,9 @@ _July 7th 2016_
 _July 8th 2016_
 
 [+] Things evolved from both inner force and outside influence. Bond is a thing.
+
+_July 15th 2016_
+
+[+] Start from the bottom.  
+[+] No one pays attetion to my ideas, since I come from nowhere. However, one day, people will see me differently.  
+[+] Am I really a stupid guy?
