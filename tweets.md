@@ -23,3 +23,7 @@ _July 15th 2016_
 [+] Start from the bottom.  
 [+] No one pays attetion to my ideas, since I come from nowhere. However, one day, people will see me differently.  
 [+] Am I really a stupid guy?
+
+_July 16th 2016_
+
+[+] Maybe I should just do one thing.
