@@ -27,3 +27,7 @@ _July 15th 2016_
 _July 16th 2016_
 
 [+] Maybe I should just do one thing.
+
+_July 19th 2016_
+
+[+] I want to be a **Market Wizard**.
