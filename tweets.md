@@ -31,3 +31,7 @@ _July 16th 2016_
 _July 19th 2016_
 
 [+] I want to be a **Market Wizard**.
+
+_July 20th 2016_
+
+[+] I will be a **Market Wizard**.
