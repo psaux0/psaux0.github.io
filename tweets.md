@@ -35,3 +35,7 @@ _July 19th 2016_
 _July 20th 2016_
 
 [+] I will be a **Market Wizard**.
+
+_July 21th 2016_
+
+[+] I started falling in love with GOLD.
