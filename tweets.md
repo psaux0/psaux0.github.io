@@ -39,3 +39,7 @@ _July 20th 2016_
 _July 21th 2016_
 
 [+] I started falling in love with GOLD.
+
+_July 27th 2016_
+
+[+] I just wrote an [article]({{site.url}}/assets/the-balance.pdf) about seeking back my balance.
