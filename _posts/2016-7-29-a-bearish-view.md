@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “Today I sold all my stocks”
+title: "Today I sold all my stocks"
 categories: "投资"
 ---
 
