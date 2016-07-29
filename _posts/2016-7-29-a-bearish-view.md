@@ -4,6 +4,8 @@ title: "Today I sold all my stocks"
 categories: "投资"
 ---
 
+**Right click the graph and choose _open the graph in a new tab_ to see it clearly**
+
 Today I sold all my stocks. On May 17th, I entered the market for the time. Till today, I received a total return of 11.62% in two and a half month, which I considered a not bad return. I have reasons that I need to sell my stocks - both personal and environmental. Personally, I become nervous and feel difficult to understand the market. At this period, I tell myself that it is a good choice to leave away from it for a while. The more important thing, however, is the environment.
 
 In my daily thoughts on the market, I once wrote my framework of analyzing stocks. The number 1 rule I wrote down is Macroeconomic environment. It should be weighted 50% of the whole framework. Although I am not either a economic person or a dude who really understands fundamentals, several figures make me feel nervous and see a bigger opportunity right in the corner.
@@ -34,4 +36,4 @@ Remember, grey areas stand for recessions. During the past 80 years, when this n
 
 I do not know whether coincidences works here. However, these graphs suggest at least a high probability of entering a  recession.
 
-From the point where we are standing now, there are many triggers - Japan, China, Euro Debt and Presidential Election. All these thing keep me away from touching the market. Unless I see a great speculating opportunity, I may be away for a while.
+From the point where we are standing now, there are many triggers - Japan, China, Euro Debt and Presidential Election. All these things keep me away from touching the market. Unless I see a great speculating opportunity, I may be away for a while.
