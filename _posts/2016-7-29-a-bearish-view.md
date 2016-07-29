@@ -1,0 +1,37 @@
+---
+layout: post
+title: “Today I sold all my stocks”
+categories: "投资"
+---
+
+Today I sold all my stocks. On May 17th, I entered the market for the time. Till today, I received a total return of 11.62% in two and a half month, which I considered a not bad return. I have reasons that I need to sell my stocks - both personal and environmental. Personally, I become nervous and feel difficult to understand the market. At this period, I tell myself that it is a good choice to leave away from it for a while. The more important thing, however, is the environment.
+
+In my daily thoughts on the market, I once wrote my framework of analyzing stocks. The number 1 rule I wrote down is Macroeconomic environment. It should be weighted 50% of the whole framework. Although I am not either a economic person or a dude who really understands fundamentals, several figures make me feel nervous and see a bigger opportunity right in the corner.
+
+Markets have cycles. Some people call it “boom-bust” cycle. The winner of a market is able to see the downturn. A quote by Howard Marks describes the downturn as “When people see real returns of market not satisfying their expected returns, the market is making a turn.” I really love this quote because it emphasizes the importance of people’s expectation. All these expectations come from Macroeconomic data and Micro company data. Let me show some figures.
+
+**All figures below come from _FRED_**
+
+The first one is Corporate Profit Change (YoY)adjusted by inventories and tax. 
+![CPATAX]({{site.url}}/assets/fedgraphs/fedgraph.png) 
+The grey parts stand for recessions. As we can see, every time when the number went less than 0, there was an recession. OK, you might say “What about the one around 1987?” Don’t you remember Oct 17th 1987? This time, 2016, this number again went to less than 0, let us see what is going on.
+
+Second discussion is about Debt. Let me show two figures.
+![debt1]({{site.url}}/assets/fedgraphs/fedgraph-7.png)
+This figure simply tells the current situation. Debt/GDP is over 100%. This is even worse than 2008. I am wondering if 2008 recession has helped USA deleverage. From this figure, I cannot imagine what will happen if recession starts.
+
+The Government has been using debt to drive GDP(output). Based on our quote above - if the use of debt does not work, the downturn will start. Let’s look at the third figure.
+![debt2]({{site.url}}/assets/fedgraphs/fedgraph-4.png)
+This is YoY Percentage change of Debt/GDP and YoY Percentage Change of GDP. Recessions happen when the blue line(Debt/GDP) goes up and cross the downward going red line(GDP). This is exactly what the quote says. The 2016 pattern tells that “If Real GDP in 2016 does not meet the expectation, the game is on.”
+
+Last point is about Industrial Production. Yes, I am talking about the OUTPUT, which I believe is the key factor of Macroeconomy. It is a mirror of GDP since GDP is also about output. However, industrial production is like the beginning, and GDP is like the ending.
+![ip1]({{site.url}}/assets/fedgraphs/fedgraph-5.png)
+This is also a normalized figure. The good thing is that it has a long enough historical data. What I want to say is that every time when these two lines cross, something not good is happening. These things are even not recessions, but they are depressions. Take a look at the trend, um….
+
+If all above figures are still not persuasive, the last one is very interesting. It is the change of Industrial Production (yes, the blue line in the last figure).
+![ip2]({{site.url}}/assets/fedgraphs/fedgraph-6.png)
+Remember, grey areas stand for recessions. During the past 80 years, when this number is less than 0, 100% recession happened. It looks like we are entering another one. 
+
+I do not know whether coincidences works here. However, these graphs suggest at least a high probability of entering a  recession.
+
+From the point where we are standing now, there are many triggers - Japan, China, Euro Debt and Presidential Election. All these thing keep me away from touching the market. Unless I see a great speculating opportunity, I may be away for a while.
