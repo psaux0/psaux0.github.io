@@ -13,23 +13,23 @@ Markets have cycles. Some people call it “boom-bust” cycle. The winner of a 
 **All figures below come from _FRED_**
 
 The first one is Corporate Profit Change (YoY)adjusted by inventories and tax. 
-![CPATAX]({{site.url}}/assets/fedgraphs/fedgraph.png) 
+![CPATAX]({{site.url}}/assets/fedgraphs/fredgraph.png) 
 The grey parts stand for recessions. As we can see, every time when the number went less than 0, there was an recession. OK, you might say “What about the one around 1987?” Don’t you remember Oct 17th 1987? This time, 2016, this number again went to less than 0, let us see what is going on.
 
 Second discussion is about Debt. Let me show two figures.
-![debt1]({{site.url}}/assets/fedgraphs/fedgraph-7.png)
+![debt1]({{site.url}}/assets/fedgraphs/fredgraph-7.png)
 This figure simply tells the current situation. Debt/GDP is over 100%. This is even worse than 2008. I am wondering if 2008 recession has helped USA deleverage. From this figure, I cannot imagine what will happen if recession starts.
 
 The Government has been using debt to drive GDP(output). Based on our quote above - if the use of debt does not work, the downturn will start. Let’s look at the third figure.
-![debt2]({{site.url}}/assets/fedgraphs/fedgraph-4.png)
+![debt2]({{site.url}}/assets/fedgraphs/fredgraph-4.png)
 This is YoY Percentage change of Debt/GDP and YoY Percentage Change of GDP. Recessions happen when the blue line(Debt/GDP) goes up and cross the downward going red line(GDP). This is exactly what the quote says. The 2016 pattern tells that “If Real GDP in 2016 does not meet the expectation, the game is on.”
 
 Last point is about Industrial Production. Yes, I am talking about the OUTPUT, which I believe is the key factor of Macroeconomy. It is a mirror of GDP since GDP is also about output. However, industrial production is like the beginning, and GDP is like the ending.
-![ip1]({{site.url}}/assets/fedgraphs/fedgraph-5.png)
+![ip1]({{site.url}}/assets/fedgraphs/fredgraph-5.png)
 This is also a normalized figure. The good thing is that it has a long enough historical data. What I want to say is that every time when these two lines cross, something not good is happening. These things are even not recessions, but they are depressions. Take a look at the trend, um….
 
 If all above figures are still not persuasive, the last one is very interesting. It is the change of Industrial Production (yes, the blue line in the last figure).
-![ip2]({{site.url}}/assets/fedgraphs/fedgraph-6.png)
+![ip2]({{site.url}}/assets/fedgraphs/fredgraph-6.png)
 Remember, grey areas stand for recessions. During the past 80 years, when this number is less than 0, 100% recession happened. It looks like we are entering another one. 
 
 I do not know whether coincidences works here. However, these graphs suggest at least a high probability of entering a  recession.
