@@ -38,10 +38,10 @@ This is also a normalized figure. The good thing is that it has a long enough hi
 
 If all above figures are still not persuasive, the last one is very interesting. It is the change of Industrial Production (yes, the blue line in the last figure).
 ![ip2]({{site.url}}/assets/fedgraphs/fredgraph-6.png)
-Remember, grey areas stand for recessions. During the past 80 years, when this number is less than 0, 100% recession happened. It looks like we are entering another one. 
+Remember, grey areas stand for recessions. During the past 80 years, when this number is less than 0, 100% recession happened. It looks like we are entering another one (or maybe we are already in one?). 
 
 I do not know whether coincidences works here. However, these graphs suggest at least a high probability of entering a  recession.
 
 From the point where we are standing now, there are many triggers - Fed, Japan, China, Euro Debt and Presidential Election. All these things keep me away from touching the market. Unless I see a great speculating opportunity, I may be away for a while. During this time, I would love to study more on Macroeconomy, financial history(especially crisis history) and Fed. Even, I can put some of my time on Technical Analysis. Mr. Market is always the best mentor.
 
-_Announcement: All contents above stand for my own view. Before May 17th, I literally had no idea about financial markets. Some of my views can be very naive. So, do not take them serious._
+_Announcement: All contents above stand for my own view. Before May 17th, I literally had no idea about financial markets. Some of my views can be very naive. So, do not take them seriously._
