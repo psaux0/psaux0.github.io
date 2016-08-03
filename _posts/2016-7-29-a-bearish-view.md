@@ -26,7 +26,7 @@ Current TED spread is 40 bps - the highest after 2012. This phenomenon gives the
 
 The second one is Corporate Profit Change (YoY)adjusted by inventories and tax. 
 ![CPATAX]({{site.url}}/assets/fedgraphs/fredgraph.png) 
-The grey parts stand for recessions. As we can see, every time when the number went less than 0, there was an recession. OK, you might say “What about the one around 1987?” Don’t you remember Oct 17th 1987? During the interview with Jack Schwager,  Paul Tudor Jones said that his company had expected a huge market crash for 2 years before the Black Monday. When he saw the pattern on Oct 14th 1987, he knew the moment was coming (then he informed Stan Druckenmiller - my favorite money manager). When I read to this place, I was surprised by how PTJ could anticipate 2 years before it happened. From the figure, maybe there is an answer (Indeed, some following figures also show a pattern starting from 1985). 
+The grey parts stand for recessions. As we can see, every time when the number went less than 0, there was an recession. OK, you might say “What about the one around 1987?” Don’t you remember Oct 19th 1987? During the interview with Jack Schwager,  Paul Tudor Jones said that his company had expected a huge market crash for 2 years before the Black Monday. When he saw the pattern on Oct 16th 1987, he knew the moment was coming (then he informed Stan Druckenmiller - my favorite money manager). When I read to this place, I was surprised by how PTJ could anticipate 2 years before it happened. From the figure, maybe there is an answer (Indeed, some following figures also show a pattern starting from 1985). 
 
 Second point is about Debt. Let me show two figures.
 ![debt1]({{site.url}}/assets/fedgraphs/fredgraph-7.png)
