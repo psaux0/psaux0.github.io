@@ -48,6 +48,6 @@ _August 5th 2016_
 
 [+] Summer reading list
 
->	1. How to trade in stocks - Jessie Livermore
->	2. A concise guide to macroeconomics - David A. Moss
->	3. Quiet - Susan Cain (on going)
+	1. How to trade in stocks - Jessie Livermore
+	2. A concise guide to macroeconomics - David A. Moss
+	3. Quiet - Susan Cain (on going)
