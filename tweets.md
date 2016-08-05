@@ -43,3 +43,11 @@ _July 21th 2016_
 _July 27th 2016_
 
 [+] I just wrote an [article]({{site.url}}/assets/the-balance.pdf) about seeking back my balance.
+
+_August 5th 2016_
+
+[+] Summer reading list
+
+>	1. How to trade in stocks - Jessie Livermore
+>	2. A concise guide to macroeconomics - David A. Moss
+>	3. Quiet - Susan Cain (on going)
