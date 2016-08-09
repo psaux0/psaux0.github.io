@@ -52,4 +52,5 @@ _August 5th 2016_
 	2. A concise guide to macroeconomics - David A. Moss
 	3. Quiet - Susan Cain (on going)
 	4. Charlie Munger: The Complete Investor - Tren Griffin
-	5. 精进 － 采铜
+	5. The Tipping Point - Malcolm Gladwell
+	6. 精进 － 采铜
