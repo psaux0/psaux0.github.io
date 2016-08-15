@@ -9,6 +9,7 @@ Find more through [about.me](https://about.me/yuchensu)
 
 Tweets channel [link]({{site.url}}/tweets.html)
 
-My daily [thoughts](https://www.dropbox.com/sh/eypf8zoimux4i2e/AABmPIUDuQ00JFM_RZA8ERmZa?dl=0) on the market. 
+My daily [thoughts](https://www.dropbox.com/sh/eypf8zoimux4i2e/AABmPIUDuQ00JFM_RZA8ERmZa?dl=0) on the market.  
+(Note on Daily Thoughts: I moved my daily thoughts to Evernote since Aug. 12 2016. It is no longer pulic. Drop me an email at russell.susu[at]gmail.com if you are intereted.
 
 Every thing is for my love: 魏琦.

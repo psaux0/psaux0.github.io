@@ -54,3 +54,4 @@ _August 5th 2016_
 	4. Charlie Munger: The Complete Investor - Tren Griffin
 	5. The Tipping Point - Malcolm Gladwell
 	6. 精进 － 采铜
+	7. Market Wizards - Jack Schwager
